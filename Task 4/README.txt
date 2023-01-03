@@ -1,13 +1,27 @@
-Link of Unlisted Youtube Video:
+Link of the Youtube Video: 
+
+Conference submitted paper / paper submission / login Link: 
 
 
+Paper title:
+Recognition of Different Accents and Speech Sentiments Using Zero-Shot Learning
 
-Submitter:
 
-Name: Fahmida Ahmed
+Paper presentation (anyone can view without login): 
 
-ID: 22241167
 
-Section: 2
+Paper submission date (to workshop/conference): 
 
-Course: CSE431 (NLP)
+
+Conference Name: 
+
+
+Conference URL: 
+
+
+Group Number:07
+
+Group Members:
+22241167 Fahmida Ahmed
+19101491 Md.Muhtadee Faiaz Khan Soumik
+19101166 Syed Ziaul Bin Bashar
