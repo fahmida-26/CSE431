@@ -1,4 +1,4 @@
-Link of the Youtube Video: 
+Link of the Youtube Video: https://youtu.be/BwsN_yaBifY
 
 Conference submitted paper / paper submission / login Link: https://easychair.org/my/conference?conf=jcdl2023 
 
@@ -7,7 +7,7 @@ Paper title:
 Recognition of Different Accents and Speech Sentiments Using Zero-Shot Learning
 
 
-Paper presentation (anyone can view without login): 
+Paper presentation (anyone can view without login): https://youtu.be/BwsN_yaBifY
 
 
 Paper submission date (to workshop/conference): 3rd January, 2023
